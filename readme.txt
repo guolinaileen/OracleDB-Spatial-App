@@ -1,3 +1,5 @@
+Created in 2012
+
 1. Name: Lin Guo 
 
 2. ID:5735679970 
@@ -33,5 +35,5 @@ The three checkboxs and four radiobuttons accomplished the functions like homewo
 
 There is a label which shows the coordinations of the mouse. 
 
-In my homework, I used the database which called Test, the username is scott and password is 12345. 
+In my work, I used the database which called Test, the username is scott and password is 12345. 
 I changed the database name to csci585, userName is temp585 and password temp585, because they are the names in the sample code. I did this for you guys compiling easily. 
